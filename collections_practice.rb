@@ -21,3 +21,5 @@ end
     end 
   end
   
+  def kesha_maker(str)
+    
