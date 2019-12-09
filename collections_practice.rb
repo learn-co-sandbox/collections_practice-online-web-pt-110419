@@ -1,6 +1,6 @@
 require 'pry'
 def sort_array_asc(int)
-  int.sort
+  int.sortexit!
 end 
 
 def sort_array_desc(int)
