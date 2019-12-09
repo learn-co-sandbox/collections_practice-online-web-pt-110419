@@ -48,4 +48,6 @@ end
     char.each_with_index.collect do |ele, i|
       ele[0, 2, 3] = "s"
      element << ele
+   end 
+ end 
       
