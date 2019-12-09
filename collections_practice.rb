@@ -30,3 +30,5 @@ end
     end
     dollar_sign
   end
+
+def find_a
