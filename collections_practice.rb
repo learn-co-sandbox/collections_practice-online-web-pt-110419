@@ -30,4 +30,5 @@ end
       #dollar_d[sign << d(["a" = "$", "h" = "$"])
       dollar_sign << d
     end 
+    dollar_sign
   end
