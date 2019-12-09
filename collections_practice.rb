@@ -25,7 +25,9 @@ end
   def kesha_maker(array)
     dollar_sign = []
     array.each do |d| 
-      binding.pry
+      d[2] = "$"
+     # binding.pry
       #dollar_d[sign << d(["a" = "$", "h" = "$"])
+      dollar_sign << d
     end 
   end
