@@ -26,6 +26,6 @@ end
     dollar_sign = []
     array.each do |d| 
       binding.pry
-      #dollar_sign << d(["a" = "$", "h" = "$"])
+      #dollar_d[sign << d(["a" = "$", "h" = "$"])
     end 
   end
