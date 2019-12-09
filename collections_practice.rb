@@ -27,4 +27,4 @@ end
       dollar_sign << d["a" => "$", "h" => "$"]
   end 
 end
-    dollar_sign
+    str 
