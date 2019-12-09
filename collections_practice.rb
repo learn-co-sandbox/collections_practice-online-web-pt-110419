@@ -26,5 +26,5 @@ end
     str.each do |d| 
       binding.pry
       #dollar_sign << d(["a" = "$", "h" = "$"])
-  end 
+    end 
 end
