@@ -31,4 +31,8 @@ end
     dollar_sign
   end
 
-def find_a
+def find_a(array)
+  array.each do |str|
+    str.start_with?("a")
+  end 
+end 
