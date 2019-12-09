@@ -45,7 +45,7 @@ end
     
   def add_s(char)
     element = []
-    ele[0, 2, 3] = "s"
     char.each_with_index.collect do |ele, i|
+      ele[0, 2, 3] = "s"
       i(0,)
       
