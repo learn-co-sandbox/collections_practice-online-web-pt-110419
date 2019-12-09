@@ -39,7 +39,7 @@ end
 
 def sum_array(int)
   int.inject(0) do |sum, x|
-   sum = array.length
+   sum + x
   end 
 end 
     
