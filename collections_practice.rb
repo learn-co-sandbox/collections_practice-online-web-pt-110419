@@ -43,4 +43,5 @@ def sum_array(int)
   end 
 end 
     
-  
+  def add_s(char)
+    char.each_with_index do |i|
