@@ -44,4 +44,7 @@ def sum_array(int)
 end 
     
   def add_s(char)
-    char.each_with_index do |i|
+    
+    char.each_with_index.collect do |ele, i|
+      
+      
