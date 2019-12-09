@@ -22,4 +22,6 @@ end
   end
   
   def kesha_maker(str)
+    dollar_sign = []
+    str.each_with_index do |
     
