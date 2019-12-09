@@ -27,6 +27,6 @@ end
     array.each do |d| 
       d[2] = "$"
       dollar_sign << d
-    end 
+    end
     dollar_sign
   end
