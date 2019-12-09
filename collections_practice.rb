@@ -23,5 +23,7 @@ end
   
   def kesha_maker(str)
     dollar_sign = []
-    str.each do {|d| '
+    str.each do {|d| ''}
+  end 
+end
     
