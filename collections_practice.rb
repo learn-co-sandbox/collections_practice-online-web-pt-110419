@@ -45,7 +45,9 @@ end
     
   def add_s(char)
     char.collect do |ele|
-      if ele ==
+      if ele == "feet"
+        ele 
+      else
       binding.pry
      ele << "s"
    end 
