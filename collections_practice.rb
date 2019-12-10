@@ -48,7 +48,7 @@ end
       if ele == "feet"
         ele 
       else
-      binding.pry
+     # binding.pry
      ele << "s"
    end 
  end 
