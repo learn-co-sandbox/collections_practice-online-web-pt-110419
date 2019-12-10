@@ -44,9 +44,8 @@ def sum_array(int)
 end 
     
   def add_s(char)
-    element = []
-     
     char.collect do |ele|
+      
       binding.pry
      ele << "s"
    end 
