@@ -46,12 +46,9 @@ end
   def add_s(char)
     element = []
      
-    char.each_with_index.collect do |ele, i|
+    char.collect do |ele|
       binding.pry
-      ele[0] = "s"
-      ele[2] = "s"
-      ele[3] = "s"
-     element << ele
+     ele << "s"
    end 
  end 
       
